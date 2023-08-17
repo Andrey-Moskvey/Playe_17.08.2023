@@ -1,0 +1,9 @@
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/Player2.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/edit_cache.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/rebuild_cache.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/list_install_components.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/install.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/install/local.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/install/strip.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/Player2_autogen_timestamp_deps.dir
+D:/C++/Player/2/build-Player2-Desktop_Qt_6_5_1_MinGW_64_bit-Profile/CMakeFiles/Player2_autogen.dir
