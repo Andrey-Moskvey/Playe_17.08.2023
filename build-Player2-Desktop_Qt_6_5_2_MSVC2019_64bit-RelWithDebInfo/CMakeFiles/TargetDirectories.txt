@@ -1,0 +1,8 @@
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/Player2.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/edit_cache.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/list_install_components.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/install.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/install/local.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/Player2_autogen_timestamp_deps.dir
+C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/Player2_autogen.dir

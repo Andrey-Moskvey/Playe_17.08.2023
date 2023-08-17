@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/C++/Player/2/build-Player2-Desktop_Qt_6_5_2_MSVC2019_64bit-RelWithDebInfo/CMakeFiles/Player2.dir/embed.manifest"
